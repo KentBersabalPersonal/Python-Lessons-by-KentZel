@@ -22,3 +22,4 @@ print("Total:", sum(scores))
 # sum(scores)   -> adds up every value in the list
 
 # min(scores)   -> this is the opposite of the max one, it returns the smallest value in the list.
+
