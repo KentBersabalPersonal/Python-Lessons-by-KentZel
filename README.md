@@ -2,7 +2,7 @@
 
 Hello Po! This repository is where I'm documenting my journey learning Python — one concept at a time. Each file focuses on a single topic, with simple, easy-to-follow code so I (and anyone else learning) can look back and understand exactly what's going on.
 
-I'm a Computer Science Student who is just also starting to learn :>
+“I’m a Computer Science student who’s also just starting to learn :>”
 
 If you're also just starting out with Python, feel free to browse around, learn alongside me, or fork this repo for your own practice!
 
